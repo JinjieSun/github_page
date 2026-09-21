@@ -27,4 +27,3 @@ latest_posts:
 ---
 
 I am an M.Sc. in Computer Science at the University of Toronto. My research focuses on robot learning, vision-based control, imitation learning, and sim-to-real transfer for autonomous surgical robotics. I develop and evaluate complete robotic systems spanning simulation, data generation, policy learning, ROS 2 integration, and real-world deployment.
-
