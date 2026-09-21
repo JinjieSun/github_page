@@ -3,8 +3,8 @@ layout: about
 title: about
 permalink: /
 subtitle: 孙进杰 | M.Sc. in Computer Science at the University of Toronto | Robot Learning and Surgical Robotics
-nav: true
-nav_order: 1
+# nav: true
+# nav_order: 1
 profile:
   align: right
   image: my_image.jpg
