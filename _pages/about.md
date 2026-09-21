@@ -27,7 +27,6 @@ latest_posts:
 
 I am an M.Sc. candidate in Computer Science at the University of Toronto. My research focuses on robot learning, vision-based control, imitation learning, and sim-to-real transfer for autonomous surgical robotics. I develop and evaluate complete robotic systems spanning simulation, data generation, policy learning, ROS 2 integration, and real-world deployment.
 
-
 Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
 
 Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
