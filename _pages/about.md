@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: M.Sc. Candidate in Computer Science at the University of Toronto | Robot Learning and Surgical Robotics
+subtitle: 孙进杰 | M.Sc. in Computer Science at the University of Toronto | Robot Learning and Surgical Robotics
 nav: true
 nav_order: 1
 profile:
@@ -26,6 +26,5 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I am an M.Sc. candidate in Computer Science at the University of Toronto. My research focuses on robot learning, vision-based control, imitation learning, and sim-to-real transfer for autonomous surgical robotics. I develop and evaluate complete robotic systems spanning simulation, data generation, policy learning, ROS 2 integration, and real-world deployment.
-
+I am an M.Sc. in Computer Science at the University of Toronto. My research focuses on robot learning, vision-based control, imitation learning, and sim-to-real transfer for autonomous surgical robotics. I develop and evaluate complete robotic systems spanning simulation, data generation, policy learning, ROS 2 integration, and real-world deployment.
 

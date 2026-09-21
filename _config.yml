@@ -2,14 +2,14 @@
 # Site settings
 # -----------------------------------------------------------------------------
 
-title: Jinjie Sun's Personal Website # the website title (if blank, full name will be used instead)
+title: Jinjie Sun | 孙进杰 # the website title (if blank, full name will be used instead)
 first_name: Jinjie
 middle_name:
 last_name: Sun
 contact_note: >
   The best way to reach me is by email.
 description: >
-  Personal website of Jinjie Sun, an M.Sc. candidate in Computer Science at the University of Toronto.
+  Personal website of Jinjie Sun, an M.Sc. in Computer Science at the University of Toronto.
   My research focuses on robot learning, surgical robotics, imitation learning, diffusion policies,
   and sim-to-real transfer.
 
