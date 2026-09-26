@@ -32,13 +32,14 @@ cv:
       - institution: University of Toronto
         location: Toronto, On, Canada
         url: https://www.utoronto.ca/
-        area: Computer Science
+        area: Computer Science (Specialist) | Statistics (Major)
         studyType: B.Sc.
         start_date: 2018-09
         end_date: 2022
         highlights:
           - Graduated with honors in Computer Science.
-          - Machine Learning, Computer Vision, Robotics, and Artificial Intelligence.
+          - Focus In Artificial Intelligence (Specialist)
+          - Focus In Computer Vision (Specialist)
 
     Experience:
       - company: Continuum Robotics Laboratory | Medical Computer Vision and Robotics Lab , University of Toronto
@@ -49,12 +50,13 @@ cv:
         summary: >
           Conducted research on vision-based autonomy and robot learning for concentric
           tube continuum robots, with emphasis on autonomous surgical liquid removal.
-        highlights:
-          - Developed end-to-end autonomy pipelines integrating visual perception, task-space motion prediction, robot control, and real-time experimental evaluation.
-          - Built a Unity simulation platform with photorealistic rendering, liquid interaction, synthetic data generation, and domain randomization.
-          - Implemented imitation-learning and diffusion-policy pipelines in PyTorch and Hugging Face LeRobot.
-          - Integrated learned policies and model-based controllers with ROS 2 and physical continuum-robot hardware.
-          - Designed simulation and real-world evaluations under changes in tissue appearance, liquid visibility, and initial robot configuration.
+      - company: Medical Computer Vision and Robotics Lab, University of Toronto
+        position: Undergraduate Researcher | Volunteer Researcher
+        location: Toronto, On, Canada
+        start_date: 2020-05
+        end_date: 2022-09
+        summary: >
+          Conducted research on autonomous skin flap placement and mathematical expression of skin flap geomotry. 
 
     Projects:
       - name: Privileged Multimodal Distillation for RGB-Only Diffusion Policy
@@ -64,12 +66,7 @@ cv:
           Developed a teacher-student framework that transfers knowledge from policies
           trained with privileged segmentation and depth observations to an RGB-only
           diffusion policy for autonomous liquid removal.
-        highlights:
-          - Designed complementary action, noise-prediction, feature, and temporal-feature distillation objectives.
-          - Trained and evaluated RGB-only policies across multiple simulated tissue scenes and visual conditions.
-          - Deployed the learned policies on a physical CTCR platform using microscope RGB observations and ROS 2.
-          - Compared distilled policies with standard and augmentation-based Diffusion Policy baselines in simulation and real-world trials.
-
+  
       - name: Vision-Based Autonomous Liquid Removal with a Concentric Tube Continuum Robot
         start_date: 2023
         end_date: 2025
@@ -77,11 +74,7 @@ cv:
           Developed a vision-based autonomous liquid-removal system combining image-based
           targeting, differential inverse kinematics, and lookup-table recovery for a
           concentric tube continuum robot.
-        highlights:
-          - Developed both a Unity-based robot-liquid simulator and a physical benchtop experimental platform.
-          - Integrated segmentation, target selection, robot control, and suction into a closed-loop system operating at 4–7 Hz.
-          - Achieved over 99% liquid removal across 32 simulated trials and less than 0.1 g remaining liquid in typical real-world trials.
-          - Published and presented the work at the 22nd Conference on Robots and Vision (CRV 2025).
+
 
     Publications:
       - title: Vision-Based Autonomous Blood Suction with a Concentric Tube Continuum Robot
@@ -98,27 +91,27 @@ cv:
           tube continuum robot, evaluated through simulation and physical experiments.
 
     Awards:
-      - title: NSERC CREATE Healthcare Robotics Fellowship
-        date: 2024-2026
-        awarder: NSERC CREATE Healthcare Robotics Program
-        summary: Fellowship supporting interdisciplinary research and training in healthcare robotics.
-
+    - title: NSERC CREATE Healthcare Robotics Fellowship
+      date: 2024
+      awarder: NSERC CREATE Healthcare Robotics Program
+      summary: Multi-year fellowship, 2024–2026, supporting interdisciplinary research and training in healthcare robotics.
+    
     Skills:
-      - name: Robot Learning
+      - name: Robot Learning and Embodied AI
         icon: fa-solid fa-robot
-        keywords: Diffusion Policy, Imitation Learning, Privileged Distillation, Sim-to-Real Transfer, Visuomotor Policy Learning
+        keywords: Imitation Learning, Diffusion Policies, Vision-Language-Action Models, Reinforcement Learning, Knowledge Distillation, Sim-to-Real Transfer
 
       - name: Machine Learning and Computer Vision
         icon: fa-solid fa-brain
-        keywords: PyTorch, Hugging Face LeRobot, U-Net, U-Net++, DeepLabV3, SegFormer, RGB-D Perception
+        keywords: Deep Learning, Visual Representation Learning, Semantic Segmentation, Multimodal Learning, Domain Adaptation, Model Evaluation
 
       - name: Robotics and Control
         icon: fa-solid fa-gears
-        keywords: ROS 2, Concentric Tube Continuum Robots, Differential Inverse Kinematics, Visual Servoing, Real-Time Control
+        keywords: ROS 2, Task-Space Control, Differential Inverse Kinematics, Visual Servoing, Real-Time Robot Control, Continuum Robotics
 
-      - name: Simulation and Software
+      - name: Programming and Development
         icon: fa-solid fa-code
-        keywords: Python, C++, C#, Unity, Git, Linux, Docker, Apptainer
+        keywords: Python, C++, C#, PyTorch, Hugging Face LeRobot, Unity, Git, Linux, Docker, Apptainer
 
     Languages:
       - name: Chinese (Mandarin)
